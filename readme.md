@@ -1,4 +1,4 @@
-# Cooler Loans
+# Cooler Loans  vvv
 
 With the successful conclusion of OIP-144 and its subsequent RFCs, Olympus will implement a lending facility that to allow users to take fixed term loans against their gOHM.
 
