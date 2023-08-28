@@ -14,7 +14,10 @@ jobs:
         uses: foundry-rs/foundry-toolchain@v1
 
       - name: Run tests
-        run: forge test -vvv
+        run: |
+          which forge
+          ls -l
+          forge test -vvv
 
       - name: Run snapshot
         run: forge snapshot
